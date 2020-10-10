@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "xxx",
-    authDomain: "angular-10-crud-db.firebaseapp.com",
-    databaseURL: "https://angular-10-crud-db.firebaseio.com",
-    projectId: "angular-10-crud-db",
-    storageBucket: "angular-10-crud-db.appspot.com",
-    messagingSenderId: "xxx",
-    appId: "1:xxx:web:xxx",
+    apiKey: "AIzaSyBg5jHQE4cQ1Sfrp5j8FpN47qerYigC05M",
+    authDomain: "angular-10-crud-db-158f3.firebaseapp.com",
+    databaseURL: "https://angular-10-crud-db-158f3.firebaseio.com",
+    projectId: "angular-10-crud-db-158f3",
+    storageBucket: "angular-10-crud-db-158f3.appspot.com",
+    messagingSenderId: "777762560649",
+    appId: "1:777762560649:web:935e3f566ddac8f17bc458",
   },
 };
 

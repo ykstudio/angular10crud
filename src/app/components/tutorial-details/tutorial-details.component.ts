@@ -46,7 +46,7 @@ export class TutorialDetailsComponent implements OnInit, OnChanges {
       title: this.currentTutorial.title,
       description: this.currentTutorial.description,
     };
-
+    console.log("update tutorial");
     this.tutorialService
       .update(this.currentTutorial.key, data)
       .then(() => (this.message = "The tutorial was updated successfully!"))
